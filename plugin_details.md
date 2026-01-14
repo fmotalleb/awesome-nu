@@ -46,7 +46,7 @@
 |[nu_plugin_plotters](https://github.com/cptpiepmatz/nu-jupyter-kernel/tree/main/crates/nu_plugin_plotters)|0.2.3+0.108.0|A nushell plugin for for plotting charts|⛔0.0.0|⛔0.0.0|
 |[nu_plugin_pnet](https://github.com/fdncred/nu_plugin_pnet)|1.7.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|⚠️0.97.2|⚠️0.97.2|
 |[nu_plugin_port_extension](https://github.com/FMotalleb/nu_plugin_port_extension)|0.109.1|A nushell plugin to list all active connections and scanning ports on a target address|✅0.109.1|✅0.109.1|
-|[nu_plugin_prometheus](https://github.com/drbrain/nu_plugin_prometheus)|0.9.0|A nushell plugin for querying prometheus|⚠️0.104.0|⚠️0.104.0|
+|[nu_plugin_prometheus](https://github.com/drbrain/nu_plugin_prometheus)|0.10.0|A nushell plugin for querying prometheus|✅0.109.1|✅0.109.1|
 |[nu_plugin_qr_maker](https://github.com/FMotalleb/nu_plugin_qr_maker)|1.1.0|A nushell plugin to create qr code in terminal|⚠️0.94.0|⚠️0.94.0|
 |[nu_plugin_query](https://github.com/nushell/nushell/tree/main/crates/nu_plugin_query)|0.109.2|A Nushell plugin to query JSON, XML, and various web data|✅0.109.2|✅0.109.2|
 |[nu_plugin_regex](https://github.com/fdncred/nu_plugin_regex)|0.18.0|nu plugin to search text with regex|✅0.109.0|✅0.109.0|
@@ -62,4 +62,4 @@
 |[nu_plugin_ws](https://github.com/alex-kattathra-johnson/nu_plugin_ws)|1.0.6|A Nushell plugin for easily streaming output from websocket endpoints|⚠️0.107.0|⚠️0.107.0|
 |[nu_plugin_x509](https://github.com/yybit/nu_plugin_x509)|0.1.8|A nushell plugin for working with x509 certificates.|✅0.109.0|✅0.109.0|
 
-last update at `2026-01-07 03:56:40 +00:00`
+last update at `2026-01-14 04:02:56 +00:00`
