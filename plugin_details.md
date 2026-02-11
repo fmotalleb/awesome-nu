@@ -15,7 +15,7 @@
 |[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.8-alpha.1|A DNS utility for nushell|✅0.110.0|✅0.110.0|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||⚠️0.91.0|⚠️0.91.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.19.0|a nushell plugin called emoji|✅0.110.0|✅0.110.0|
-|[nu_plugin_endecode](https://github.com/KAAtheWiseGit/nugins/tree/trunk/endecode)|0.109.0|A plugin with various encoding schemes, from Crockford's base-32 to HTML entity escaping.|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_endecode](https://github.com/KAAtheWiseGit/nugins/tree/trunk/endecode)|0.110.0|A plugin with various encoding schemes, from Crockford's base-32 to HTML entity escaping.|⚠️0.102.0|⚠️0.102.0|
 |[nu_plugin_explore](https://github.com/amtoine/nu_plugin_explore)|0.102.0|A fast structured data explorer for Nushell.|⚠️0.102.0|⚠️0.102.0|
 |[nu_plugin_file](https://github.com/fdncred/nu_plugin_file)|0.21.0|a nushell plugin called file|✅0.110.0|✅0.110.0|
 |[nu_plugin_format_pcap](https://github.com/b4nst/nu_plugin_format_pcap)|0.1.0||⚠️0.101.0|⚠️0.101.0|
@@ -37,7 +37,7 @@
 |[nu_plugin_msgpack](https://github.com/hulthe/nu_plugin_msgpack)|0.90.1|Commands to convert nushell data to and from MsgPack|⚠️0.90.1|⚠️0.90.1|
 |[nu_plugin_net](https://github.com/fennewald/nu_plugin_net)|1.10.0|A nushell plugin for enumerating network interfaces in a platform-agnostic way|⚠️0.104.0|⚠️0.104.0|
 |[nu_plugin_nupsql](https://gitlab.com/HertelP/nu_plugin_nupsql)|1.0.0|A nushell plugin to query postgres databases|⚠️^0.109.0|⚠️^0.109.0|
-|[nu_plugin_nuts](https://github.com/dam4rus/nu_plugin_nuts)|0.1.1|Blazingly fast Nats client as a nushell plugin|⚠️0.109.1|⚠️0.109.1|
+|[nu_plugin_nuts](https://github.com/dam4rus/nu_plugin_nuts)|0.1.2|Blazingly fast Nats client as a nushell plugin|✅0.110.0|✅0.110.0|
 |[nu_plugin_parquet](https://github.com/fdncred/nu_plugin_parquet)|0.20.0|nu plugin to add parquet support|✅0.110.0|✅0.110.0|
 |[nu_plugin_periodic_table](https://github.com/JosephTLyons/nu_plugin_periodic_table)|0.2.12|A periodic table of elements plugin for Nushell|⚠️0.106.1|⚠️0.106.1|
 |[nu_plugin_plist](https://github.com/ainvaltin/nu_plugin_plist)|0.1.0|Nushell plist and base85 plugin implemented in Go.|⚠️0.94.0|⚠️0.94.0|
@@ -54,7 +54,7 @@
 |[nu_plugin_semver](https://github.com/abusch/nu_plugin_semver)|0.11.14|A nushell plugin for dealing with SemVer versions|✅0.110.0|✅0.110.0|
 |[nu_plugin_skim](https://github.com/idanarye/nu_plugin_skim)|0.23.1|An `sk` command that can handle Nushell's structured data|✅0.110|✅0.110|
 |[nu_plugin_sled](https://github.com/mrxiaozhuox/nu_plugin_sled)|0.1.3|Manage sled db in nushell|⚠️0.108.0|⚠️0.108.0|
-|[nu_plugin_template](https://github.com/KAAtheWiseGit/nugins/tree/trunk/template)|0.109.0|Templating in Nushell, powered by TinyTemplate|⚠️0.102.0|⚠️0.102.0|
+|[nu_plugin_template](https://github.com/KAAtheWiseGit/nugins/tree/trunk/template)|0.110.0|Templating in Nushell, powered by TinyTemplate|⚠️0.102.0|⚠️0.102.0|
 |[nu_plugin_template](https://github.com/fdncred/nu_plugin_template)|0.0|A `cargo-generate` template for making it easier to create nushell plugins.|⛔0.0|⛔0.0|
 |[nu_plugin_ulid](https://github.com/lizclipse/nu_plugin_ulid)|0.19.0|A nushell plugin that adds various ulid commands|✅0.110.0|✅0.110.0|
 |[nu_plugin_units](https://github.com/JosephTLyons/nu_plugin_units)|0.1.8|A Nushell plugin for easily converting between common units|⚠️0.106.1|⚠️0.106.1|
@@ -62,4 +62,4 @@
 |[nu_plugin_ws](https://github.com/alex-kattathra-johnson/nu_plugin_ws)|1.0.6|A Nushell plugin for easily streaming output from websocket endpoints|⚠️0.107.0|⚠️0.107.0|
 |[nu_plugin_x509](https://github.com/yybit/nu_plugin_x509)|0.1.8|A nushell plugin for working with x509 certificates.|⚠️0.109.0|⚠️0.109.0|
 
-last update at `2026-02-04 04:23:29 +00:00`
+last update at `2026-02-11 04:55:13 +00:00`
