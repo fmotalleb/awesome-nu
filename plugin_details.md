@@ -12,7 +12,7 @@
 |[nu_plugin_dcm](https://github.com/realcundo/nu_plugin_dcm)|0.8.0|A nushell plugin to parse Dicom files and DICOMweb records|⚠️0.108.0|⚠️0.108.0|
 |[nu_plugin_desktop_notifications](https://github.com/FMotalleb/nu_plugin_desktop_notifications)|0.112.2|A nushell plugin to send desktop notifications|✅0.112.2|✅0.112.2|
 |[nu_plugin_dialog](https://github.com/Trivernis/nu-plugin-dialog)|0.2.0|A nushell plugin for user interaction|⚠️0.86.1|⚠️0.86.1|
-|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.9-alpha.1|A DNS utility for nushell|⚠️0.111.0|⚠️0.111.0|
+|[nu_plugin_dns](https://github.com/dead10ck/nu_plugin_dns)|4.0.10-alpha.1|A DNS utility for nushell|✅0.112.2|✅0.112.2|
 |[nu_plugin_dpkgtable](https://github.com/pdenapo/nu_plugin_dpkgtable)|0.1.0||⚠️0.111.0|⚠️0.111.0|
 |[nu_plugin_emoji](https://github.com/fdncred/nu_plugin_emoji)|0.21.0|a nushell plugin called emoji|✅0.112.2|✅0.112.2|
 |[nu_plugin_endecode](https://github.com/KAAtheWiseGit/nugins/tree/trunk/endecode)|0.110.0|A plugin with various encoding schemes, from Crockford's base-32 to HTML entity escaping.|⚠️0.102.0|⚠️0.102.0|
@@ -62,4 +62,4 @@
 |[nu_plugin_ws](https://github.com/alex-kattathra-johnson/nu_plugin_ws)|1.0.6|A Nushell plugin for easily streaming output from websocket endpoints|⚠️0.107.0|⚠️0.107.0|
 |[nu_plugin_x509](https://github.com/yybit/nu_plugin_x509)|0.1.8|A nushell plugin for working with x509 certificates.|⚠️0.109.0|⚠️0.109.0|
 
-last update at `2026-04-22 05:15:08 +00:00`
+last update at `2026-04-29 05:43:15 +00:00`
